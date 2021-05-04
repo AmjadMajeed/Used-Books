@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1031628093315",
+    "firebase_url": "https://project-84f1b-default-rtdb.firebaseio.com",
+    "project_id": "project-84f1b",
+    "storage_bucket": "project-84f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031628093315:android:da2b8aa86729a0d07b68b6",
+        "android_client_info": {
+          "package_name": "com.muhammadali.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031628093315-o08rqe772h1vrjlvtekei1n960poqi0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Eb1cqntbQCZ5fPT-YHDiGTJQqsmdYVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031628093315-o08rqe772h1vrjlvtekei1n960poqi0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031628093315-0cmspq830lpcekt4mfkpl7t7v76cnabm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
